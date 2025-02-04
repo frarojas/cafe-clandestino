@@ -19,5 +19,8 @@
     "extends": [
       "./node_modules/standard/eslintrc.json"
     ]
+  },
+  "dependencies": {
+    "firebase": "^11.2.0"
   }
 }
