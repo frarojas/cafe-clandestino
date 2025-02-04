@@ -3,7 +3,7 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
   <div class="flex justify-center items-center h-screen bg-indigo-900">
     <div class="w-96 p-6 shadow-lg bg-white rounded-md">
-      <h1 class="text-2xl font-bold text-center">Log In</h1>
+      <h1 class="text-2xl font-bold text-center">Iniciar Sesión</h1>
       <hr class="mt-3"/>
       <div class="mt-3">
         <label form="username" class="block text-base mb-2">Correo</label>
